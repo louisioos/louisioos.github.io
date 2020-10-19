@@ -1,0 +1,466 @@
+body
+{
+	width:100%;
+	font-family:arial;
+}
+
+body1
+{
+	width:50%;
+	font-family:arial;
+}
+
+
+header1
+{
+	display: inline-block;
+    position: absolute;
+    top:10px;
+    left: 200px;
+    width:750px;
+    height:175px;
+	background-image:url(photoweb.jpg);
+	background-size:100%
+}
+
+header2
+{
+	display: inline-block;
+    position: absolute;
+    top:10px;
+    left: 250px;
+    width:750px;
+    height:175px;
+	background-image:url(photoweb.jpg);
+	background-size:100%
+}
+
+header3
+{
+	display: inline-block;
+    position: absolute;
+    top:10px;
+    left: 250px;
+    width:750px;
+    height:175px;
+	background-image:url(photoweb.jpg);
+	background-size:100%
+}
+
+header4
+{
+	display: inline-block;
+    position: absolute;
+    top:10px;
+    left: 250px;
+    width:750px;
+    height:175px;
+	background-image:url(photoweb.jpg);
+	background-size:100%
+}
+
+header5
+{
+	display: inline-block;
+    position: absolute;
+    top:10px;
+    left: 250px;
+    width:750px;
+    height:175px;
+	background-image:url(photoweb.jpg);
+	background-size:100%
+}
+
+header6
+{
+	display: inline-block;
+    position: absolute;
+    top:10px;
+    left: 250px;
+    width:750px;
+    height:175px;
+	background-image:url(photoweb.jpg);
+	background-size:100%
+}
+
+header7
+{
+	display: inline-block;
+    position: absolute;
+    top:10px;
+    left: 250px;
+    width:750px;
+    height:175px;
+	background-image:url(photoweb.jpg);
+	background-size:100%
+}
+
+nav
+{
+	display: inline-block;
+    position: absolute;
+    top:0px;
+    height:100%;
+    widht:200px;
+}
+
+
+article
+{
+	display: inline-block;
+    position: absolute;
+    top:20px;
+    left: 200px;
+    width:700px;
+    background-color:white;
+    text-align: justify;
+}
+
+article1
+{
+	display: inline-block;
+    position: absolute;
+    top:20px;
+    left: 200px;
+    width: 470px;
+    background-color:white;
+    text-align: justify;
+}
+
+article3
+{
+	display: inline-block;
+    position: absolute;
+    top:20px;
+    left: 200px;
+    width:900px;
+    background-color:white;
+    text-align: justify;
+}
+
+article2
+{
+	display: inline-block;
+    position: absolute;
+    top:120px;
+    left: 250px;
+    width:750px;
+    background-color:white;
+    text-align: justify;
+}
+
+h1
+{
+	text-align: left;
+	border-bottom : 1px solid black;
+	font-size: xx-large;
+	font-weight:normal;
+}
+
+h2
+{
+	color:black;
+	text-align: left;
+	font-size: large;
+//	font-style:italic;
+	font-weight:normal;
+}
+
+h3
+{
+	text-align: left;
+	font-size: xx-large;
+	font-weight:normal;
+}
+
+p
+{
+	color:black;
+	font-size: medium;
+}
+
+table
+{
+	width:750px;
+}
+
+tr
+{
+	height:60px;
+}
+
+th
+{
+	valign=top;
+	color:grey;
+	text-align: left;
+	font-size: medium;
+	font-weight:normal;
+	width:15%;
+	color:black;
+	text-align:left;
+}
+
+td
+{
+	valign=top;
+	text-align:right;
+	width:85%;
+	color:black;
+}
+
+.cel2
+{
+	width:80%;
+}
+
+
+
+footstep
+{
+	display: inline-block;
+	width:700px;
+    color:grey;
+    background-color:white;
+    text-align: right;
+    font-size: small;
+    border-top: 1px solid grey;
+}
+
+footstep1
+{
+	display: inline-block;
+	width:500px;
+    color:grey;
+    background-color:white;
+    text-align: right;
+    font-size: small;
+    border-top: 1px solid grey;
+}
+
+footstep2
+{
+	display: inline-block;
+	width:900px;
+    color:grey;
+    background-color:white;
+    text-align: right;
+    font-size: small;
+    border-top: 1px solid grey;
+}
+
+margeleft
+{
+	display: inline-block;
+	position: fixed;
+	left: 700px;
+	width:500px;
+	top: 40px;
+	background-color:white;
+	text-align: left;
+	font-size: small;
+}
+
+margeleft2
+{
+	display: inline-block;
+	position: fixed;
+	left: 950px;
+	width:500px;
+	top: 0px;
+	background-color:white;
+	text-align: left;
+	font-size: small;
+}
+
+marge
+{
+	display: inline-block;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width:170px;
+    height:100%;
+    background-color:#31B404;
+		text-align: left;
+		font-size: small;
+		border-top: 3px solid black;
+}
+
+photo
+{
+	display: inline-block;
+		position: fixed;
+		top:30px;
+		left:950px;
+		width:180px;
+		height:200px;
+		background-image:url(photoweb.jpg);
+}
+
+photo1
+{
+	display: inline-block;
+		position: fixed;
+		top:30px;
+		left:950px;
+		width:180px;
+		height:200px;
+		background-image:url(photoweb.jpg);
+}
+
+
+home
+{
+	display: inline-block;
+    position: fixed;
+    top:250px;
+    left: 6px;
+    width:150px;
+    height:20px;
+    background-color:#31B404;
+    color:black;
+    text-align: right;
+}
+
+
+
+cv
+{
+	display: inline-block;
+    position: fixed;
+    top:280px;
+    left: 6px;
+    width:150px;
+    height:20px;
+    background-color:#31B404;
+    color:black;
+    text-align: right;
+}
+
+recherches
+{
+	display: inline-block;
+    position: fixed;
+    top:310px;
+    left: 6px;
+    width:150px;
+    height:20px;
+    background-color:#31B404;
+    color:black;
+    font-family:verdana;
+    text-align: right;
+}
+
+enseignement
+{
+	display: inline-block;
+    position: fixed;
+    top: 340px;
+    left: 6px;
+    width:150px;
+    height:20px;
+    background-color:#31B404;
+    color:black;
+    font-family:verdana;
+    text-align: right;
+}
+
+liens
+{
+	display: inline-block;
+    position: fixed;
+    top:370px;
+    left: 6px;
+    width:150px;
+    height:20px;
+    background-color:#31B404;
+    color:black;
+    text-align: right;
+}
+
+EF
+{
+	display: inline-block;
+    position: fixed;
+    top:470px;
+    left: 6px;
+    width:150px;
+    height:20px;
+    color:black;
+    text-align: center;
+    border-radius: 0px 0px 0px 0px;
+}
+
+
+
+.clic
+{
+	display: inline-block;
+    width:151px;
+    height:21px;
+    background-color:#31B404;
+    color:black;
+    text-align: right;
+    text-decoration:none;
+}
+
+.clic:hover
+{
+	color:black;
+	background-color:lightgreen;
+}
+
+.clic2
+{
+	color:blue;
+	text-decoration:none;
+}
+
+.clic2:hover
+{
+	color:black;
+	text-decoration:underline;
+}
+
+.clic3
+{
+	color:darkgrey;
+	text-decoration:none;
+}
+
+.clic3:hover
+{
+	color:black;
+	text-decoration:underline;
+}
+
+cv
+{
+	background-color:lightgreen;
+	color:black;
+}
+
+home
+{
+	background-color:lightgreen;
+	color:black;
+}
+
+
+recherches
+{
+	background-color:lightgreen;
+	color:black;
+}
+enseignement
+{
+	background-color:lightgreen;
+	color:black;
+}
+
+liens
+{
+	background-color:lightgreen;
+	color:black;
+}
