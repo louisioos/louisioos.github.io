@@ -179,6 +179,12 @@ p
 	font-size: medium;
 }
 
+bf
+{
+	color:black;
+	font-weight: bold;
+}
+
 table
 {
 	width:750px;
@@ -437,7 +443,7 @@ EF
 
 cv
 {
-	background-color:lightgreen;
+	background-color:##afff7d;
 	color:black;
 }
 
