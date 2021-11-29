@@ -179,6 +179,12 @@ p
 	font-size: medium;
 }
 
+bf
+{
+	color:black;
+	font-weight: bold;
+}
+
 table
 {
 	width:750px;
@@ -425,7 +431,7 @@ EF
 
 .clic3
 {
-	color:darkgrey;
+	color:#207603;
 	text-decoration:none;
 }
 
