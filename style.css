@@ -294,7 +294,7 @@ marge
     left: 0px;
     width:170px;
     height:100%;
-    background-color:#C3EA9F;
+    background-color:#27a127;
 		text-align: left;
 		font-size: small;
 		border-top: 3px solid black;
@@ -331,7 +331,7 @@ home
     left: 6px;
     width:150px;
     height:20px;
-    background-color:#C3EA9F;
+    background-color:#27a127;
     color:black;
     text-align: right;
 }
@@ -346,7 +346,7 @@ cv
     left: 6px;
     width:150px;
     height:20px;
-    background-color:#C3EA9F;
+    background-color:#27a127;
     color:black;
     text-align: right;
 }
@@ -359,7 +359,7 @@ recherches
     left: 6px;
     width:150px;
     height:20px;
-    background-color:#C3EA9F;
+    background-color:#27a127;
     color:black;
     font-family:verdana;
     text-align: right;
@@ -373,7 +373,7 @@ enseignement
     left: 6px;
     width:150px;
     height:20px;
-    background-color:#C3EA9F;
+    background-color:#27a127;
     color:black;
     font-family:verdana;
     text-align: right;
@@ -387,7 +387,7 @@ liens
     left: 6px;
     width:150px;
     height:20px;
-    background-color:#C3EA9F;
+    background-color:#27a127;
     color:black;
     text-align: right;
 }
@@ -412,7 +412,7 @@ EF
 	display: inline-block;
     width:151px;
     height:21px;
-    background-color:#C3EA9F;
+    background-color:#27a127;
     color:black;
     text-align: right;
     text-decoration:none;
@@ -421,7 +421,7 @@ EF
 .clic:hover
 {
 	color:black;
-	background-color:#b9e094;
+	background-color:#30c930;
 }
 
 .clic2
@@ -450,30 +450,30 @@ EF
 
 cv
 {
-	background-color:#C3EA9F;
+	background-color:#27a127;
 	color:black;
 }
 
 home
 {
-	background-color:#C3EA9F;
+	background-color:#27a127;
 	color:black;
 }
-
 
 recherches
 {
-	background-color:#C3EA9F;
+	background-color:#27a127;
 	color:black;
 }
+
 enseignement
 {
-	background-color:#C3EA9F;
+	background-color:#27a127;
 	color:black;
 }
 
 liens
 {
-	background-color:#C3EA9F;
+	background-color:#27a127;
 	color:black;
 }
