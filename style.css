@@ -71,6 +71,19 @@ header5
 	background-size:100%
 }
 
+header512
+{
+	display: inline-block;
+    position: absolute;
+    top:15px;
+    left: 250px;
+    width:750px;
+    height:220px;
+	background-image:url(Images/cezanne.jpeg);
+	background-size:100%
+}
+
+
 header6
 {
 	display: inline-block;
