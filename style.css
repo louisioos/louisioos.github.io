@@ -405,11 +405,24 @@ liens
     text-align: right;
 }
 
+ANR
+{
+	display: inline-block;
+    position: fixed;
+    top:400px;
+    left: 6px;
+    width:150px;
+    height:20px;
+    background-color:#27a127;
+    color:black;
+    text-align: right;
+}
+
 EF
 {
 	display: inline-block;
     position: fixed;
-    top:470px;
+    top:500px;
     left: 6px;
     width:150px;
     height:20px;
